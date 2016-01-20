@@ -1,0 +1,2 @@
+//Arduino LCD Library Functions (Part B) :: Video #4 :: Liquid Crystal Display and Arduino Series
+https://www.youtube.com/watch?v=XQTYpvrsIg8&list=PLYutciIGBqC3MngbyTPHqUkA29LciU71X&index=8

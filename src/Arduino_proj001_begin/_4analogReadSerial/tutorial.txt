@@ -1,0 +1,2 @@
+//Tutorial 08: analogRead() and the Serial Port: Arduino Course for Absolute Beginners (ReM)
+https://www.youtube.com/watch?v=CPMQSXrsaO8&index=8&list=PLZfay8jtbyJt6gkkOgeeapCS_UrsgfuJA

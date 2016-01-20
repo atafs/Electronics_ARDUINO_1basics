@@ -1,0 +1,17 @@
+//13 VIDEOS - Arduino Course for Absolute Beginners
+https://www.youtube.com/watch?v=09zfRaLEasY&list=PLZfay8jtbyJt6gkkOgeeapCS_UrsgfuJA
+
+//LIST
+https://www.youtube.com/watch?v=09zfRaLEasY&list=PLZfay8jtbyJt6gkkOgeeapCS_UrsgfuJA&index=1
+https://www.youtube.com/watch?v=w55Pd4dU5-w&index=2&list=PLZfay8jtbyJt6gkkOgeeapCS_UrsgfuJA
+https://www.youtube.com/watch?v=YDkdVZ7e3OY&list=PLZfay8jtbyJt6gkkOgeeapCS_UrsgfuJA&index=3
+https://www.youtube.com/watch?v=AJkEQ9t4WfY&list=PLZfay8jtbyJt6gkkOgeeapCS_UrsgfuJA&index=4
+
+//How to Blink an LED
+https://www.youtube.com/watch?v=33sNhlekRV8&index=6&list=PLZfay8jtbyJt6gkkOgeeapCS_UrsgfuJA
+
+//digitalRead() and the Serial Port
+https://www.youtube.com/watch?v=CIrN2CaO6bo&index=7&list=PLZfay8jtbyJt6gkkOgeeapCS_UrsgfuJA
+
+//8 VIDEOS - Advanced Topics Video Series
+https://www.youtube.com/playlist?list=PLYutciIGBqC3MngbyTPHqUkA29LciU71X

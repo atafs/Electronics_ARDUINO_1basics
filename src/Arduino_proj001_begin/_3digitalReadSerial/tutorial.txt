@@ -1,0 +1,2 @@
+//digitalRead() and the Serial Port
+https://www.youtube.com/watch?v=CIrN2CaO6bo&index=7&list=PLZfay8jtbyJt6gkkOgeeapCS_UrsgfuJA
