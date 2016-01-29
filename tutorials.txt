@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=CIrN2CaO6bo&index=7&list=PLZfay8jtbyJt6gkkOgeeap
 
 //8 VIDEOS - Advanced Topics Video Series
 https://www.youtube.com/playlist?list=PLYutciIGBqC3MngbyTPHqUkA29LciU71X
+
+//LEARNING REFERENCE ARDUINO LANGUAGE
+https://www.arduino.cc/en/Reference/HomePage

@@ -6,7 +6,7 @@
  */
 
 // VARIABLE: digital pin 2 has a pushbutton attached to it. Give it a name:
-int pushButton = 2;
+int pushButton = 13;
 
 // FUNCTION: the setup routine runs once when you press reset:
 void setup() {
